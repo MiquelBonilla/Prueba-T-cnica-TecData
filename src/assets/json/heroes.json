@@ -1,0 +1,551 @@
+[
+    {
+        "id": 1,
+        "hero": "Spider-Man",
+        "universe": "Marvel",
+        "skills": [
+            "Agilidad sobrehumana",
+            "Sentido arácnido",
+            "Telarañas"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 2,
+        "hero": "Batman",
+        "universe": "DC Comics",
+        "skills": [
+            "Inteligencia",
+            "Habilidades de combate",
+            "Tecnología avanzada"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 3,
+        "hero": "Superman",
+        "universe": "DC Comics",
+        "skills": [
+            "Super fuerza",
+            "Vuelo",
+            "Visión de calor"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 4,
+        "hero": "Iron Man",
+        "universe": "Marvel",
+        "skills": [
+            "Armamento avanzado",
+            "Vuelo",
+            "Inteligencia"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 5,
+        "hero": "Wonder Woman",
+        "universe": "DC Comics",
+        "skills": [
+            "Fuerza sobrehumana",
+            "Vuelo",
+            "Lazo de la verdad"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 6,
+        "hero": "Joker",
+        "universe": "DC Comics",
+        "skills": [
+            "Inteligencia",
+            "Trucos mortales",
+            "Manipulación"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 7,
+        "hero": "Lex Luthor",
+        "universe": "DC Comics",
+        "skills": [
+            "Inteligencia",
+            "Tecnología avanzada",
+            "Manipulación"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 8,
+        "hero": "Magneto",
+        "universe": "Marvel",
+        "skills": [
+            "Manipulación magnética",
+            "Protección psíquica",
+            "Vuelo"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 9,
+        "hero": "Venom",
+        "universe": "Marvel",
+        "skills": [
+            "Fuerza sobrehumana",
+            "Regeneración",
+            "Simbionte alienígena"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 10,
+        "hero": "Thanos",
+        "universe": "Marvel",
+        "skills": [
+            "Super fuerza",
+            "Inteligencia",
+            "Guantelete del infinito"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 11,
+        "hero": "Loki",
+        "universe": "Marvel",
+        "skills": [
+            "Magia",
+            "Manipulación",
+            "Ilusiones"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 12,
+        "hero": "Harley Quinn",
+        "universe": "DC Comics",
+        "skills": [
+            "Agilidad",
+            "Locura controlada",
+            "Armas improvisadas"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 13,
+        "hero": "Darkseid",
+        "universe": "DC Comics",
+        "skills": [
+            "Super fuerza",
+            "Tecnología avanzada",
+            "Omega Beams"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 14,
+        "hero": "Catwoman",
+        "universe": "DC Comics",
+        "skills": [
+            "Agilidad",
+            "Sigilo",
+            "Maestría en combate cuerpo a cuerpo"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 15,
+        "hero": "Harvey Dent (Two-Face)",
+        "universe": "DC Comics",
+        "skills": [
+            "Manejo de armas",
+            "Estrategia",
+            "Doble personalidad"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 16,
+        "hero": "Ra's al Ghul",
+        "universe": "DC Comics",
+        "skills": [
+            "Inmortalidad",
+            "Maestría en combate",
+            "Intelecto genial"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 17,
+        "hero": "Doctor Octopus",
+        "universe": "Marvel",
+        "skills": [
+            "Inteligencia",
+            "Cuatro brazos mecánicos",
+            "Tácticas de combate"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 18,
+        "hero": "Bane",
+        "universe": "DC Comics",
+        "skills": [
+            "Super fuerza",
+            "Intelecto",
+            "Uso de veneno"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 19,
+        "hero": "Poison Ivy",
+        "universe": "DC Comics",
+        "skills": [
+            "Control sobre las plantas",
+            "Toxicidad",
+            "Manipulación"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 20,
+        "hero": "Mystique",
+        "universe": "Marvel",
+        "skills": [
+            "Mimetismo",
+            "Maestría en combate",
+            "Inteligencia"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 21,
+        "hero": "Red Skull",
+        "universe": "Marvel",
+        "skills": [
+            "Inteligencia",
+            "Manipulación",
+            "Maestría en combate"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 22,
+        "hero": "Harold Osborn (Green Goblin)",
+        "universe": "Marvel",
+        "skills": [
+            "Vuelo",
+            "Fuerza sobrehumana",
+            "Tecnología avanzada"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 23,
+        "hero": "Captain America",
+        "universe": "Marvel",
+        "skills": [
+            "Super fuerza",
+            "Escudo indestructible",
+            "Habilidades de liderazgo"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 24,
+        "hero": "Thor",
+        "universe": "Marvel",
+        "skills": [
+            "Fuerza sobrehumana",
+            "Vuelo",
+            "Control del clima"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 25,
+        "hero": "Hulk",
+        "universe": "Marvel",
+        "skills": [
+            "Super fuerza",
+            "Regeneración",
+            "Inmunidad"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 26,
+        "hero": "Black Widow",
+        "universe": "Marvel",
+        "skills": [
+            "Maestría en combate cuerpo a cuerpo",
+            "Espionaje",
+            "Tácticas militares"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 27,
+        "hero": "Green Lantern",
+        "universe": "DC Comics",
+        "skills": [
+            "Anillo de poder",
+            "Vuelo",
+            "Construcciones de energía"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 28,
+        "hero": "Doctor Strange",
+        "universe": "Marvel",
+        "skills": [
+            "Magia",
+            "Viaje astral",
+            "Manipulación de la realidad"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 29,
+        "hero": "Aquaman",
+        "universe": "DC Comics",
+        "skills": [
+            "Habilidades acuáticas",
+            "Fuerza sobrehumana",
+            "Comunicación con la vida marina"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 30,
+        "hero": "Black Panther",
+        "universe": "Marvel",
+        "skills": [
+            "Super fuerza",
+            "Agilidad",
+            "Tecnología avanzada"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 31,
+        "hero": "Goku",
+        "universe": "Dragon Ball",
+        "skills": [
+            "Super fuerza",
+            "Vuelo",
+            "Kamehameha"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 32,
+        "hero": "Vegeta",
+        "universe": "Dragon Ball",
+        "skills": [
+            "Super fuerza",
+            "Energía ki",
+            "Transformaciones"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 33,
+        "hero": "Naruto Uzumaki",
+        "universe": "Naruto",
+        "skills": [
+            "Ninjutsu",
+            "Taijutsu",
+            "Genjutsu"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 34,
+        "hero": "Sasuke Uchiha",
+        "universe": "Naruto",
+        "skills": [
+            "Sharingan",
+            "Chidori",
+            "Susanoo"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 35,
+        "hero": "Monkey D. Luffy",
+        "universe": "One Piece",
+        "skills": [
+            "Gomu Gomu no Mi",
+            "Haki",
+            "Gear Fourth"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 36,
+        "hero": "Zoro Roronoa",
+        "universe": "One Piece",
+        "skills": [
+            "Santoryu",
+            "Haki",
+            "Asura"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 37,
+        "hero": "Ichigo Kurosaki",
+        "universe": "Bleach",
+        "skills": [
+            "Zanpakuto",
+            "Bankai",
+            "Hollowfication"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 38,
+        "hero": "Natsu Dragneel",
+        "universe": "Fairy Tail",
+        "skills": [
+            "Magia de fuego",
+            "Dragon Slayer",
+            "Exceed"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 39,
+        "hero": "Shanks",
+        "universe": "One Piece",
+        "skills": [
+            "Haki",
+            "Maestría en la espada",
+            "Carisma"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 40,
+        "hero": "Gon Freecss",
+        "universe": "Hunter x Hunter",
+        "skills": [
+            "Nen",
+            "Gran fuerza",
+            "Mejora"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 41,
+        "hero": "Light Yagami",
+        "universe": "Death Note",
+        "skills": [
+            "Intelecto a nivel de genio",
+            "Cuaderno de la Muerte",
+            "Planificación estratégica"
+        ],
+        "is_hero": false
+    },
+    {
+        "id": 42,
+        "hero": "L Lawliet",
+        "universe": "Death Note",
+        "skills": [
+            "Alta inteligencia",
+            "Habilidades de detective",
+            "Habilidades analíticas"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 43,
+        "hero": "Saitama",
+        "universe": "One Punch Man",
+        "skills": [
+            "Un puñetazo",
+            "Invulnerabilidad",
+            "Fuerza sobrehumana"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 44,
+        "hero": "Edward Elric",
+        "universe": "Fullmetal Alchemist",
+        "skills": [
+            "Alquimia",
+            "Brazo de automail",
+            "Habilidades de combate"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 45,
+        "hero": "Alphonse Elric",
+        "universe": "Fullmetal Alchemist",
+        "skills": [
+            "Vínculo de alma",
+            "Armadura pesada",
+            "Alquimia"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 46,
+        "hero": "Homura Akemi",
+        "universe": "Puella Magi Madoka Magica",
+        "skills": [
+            "Manipulación del tiempo",
+            "Armas mágicas",
+            "Teleportación"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 47,
+        "hero": "Madoka Kaname",
+        "universe": "Puella Magi Madoka Magica",
+        "skills": [
+            "Poderes mágicos",
+            "Arco y flecha",
+            "Concesión de deseos"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 48,
+        "hero": "Simon",
+        "universe": "Gurren Lagann",
+        "skills": [
+            "Super fuerza",
+            "Pilotaje"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 49,
+        "hero": "Eren Yeager",
+        "universe": "Attack on Titan",
+        "skills": [
+            "Titan Shifting",
+            "Intelligence",
+            "Combat Skills"
+        ],
+        "is_hero": true
+    },
+    {
+        "id": 50,
+        "hero": "Levi Ackerman",
+        "universe": "Attack on Titan",
+        "skills": [
+            "Titan Shifting",
+            "Combat Skills",
+            "Tactical Genius"
+        ],
+        "is_hero": true
+    }
+]

@@ -1,0 +1,18 @@
+.mat-mdc-form-field {
+    flex-direction: row-reverse !important;
+    flex-wrap: nowrap !important;
+    width: 400px;
+}
+
+
+
+.full-width {
+    width: 75%;
+}
+
+.mat-mdc-card{
+    width: 30vw;
+}
+.mat-mdc-card-title, .mat-mdc-card-subtitle{
+    padding-bottom: 0.5em;
+}
