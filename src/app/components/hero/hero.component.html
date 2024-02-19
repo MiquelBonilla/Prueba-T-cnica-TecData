@@ -15,7 +15,7 @@
             </mat-form-field>
             <mat-form-field>
               <mat-label>Habilidades:</mat-label>
-              <input matInput name="skills" [(ngModel)]="hero.skills">
+              <input matInput name="skills" #skills placeholder="Fuerza, Volar, etc.." (blur)="setSkills(skills.value)">
             </mat-form-field>
             <br><br>
             <div class="d-flex justify-content-between">

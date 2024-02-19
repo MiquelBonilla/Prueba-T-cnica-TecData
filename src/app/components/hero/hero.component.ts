@@ -56,11 +56,15 @@ export class HeroComponent implements OnInit, OnDestroy {
     });
   }
 
+  setSkills(value: string) {
+    this.hero.skills = value.split(',');
+  }
+
   onSubmit() {
     let result: boolean = false;
     if (this.heroId == -1) {
       result = this.heroSrv.createHeroe(this.hero);
-    }else {
+    } else {
       result = this.heroSrv.modifyHero(this.hero);
     }
     if (result == true) {
